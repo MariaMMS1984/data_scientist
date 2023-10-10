@@ -3,7 +3,7 @@ yandex-praktikum-projects
 
 # Список проектов:
 
-## [1. Яндекс Музыка.](https://github.com/MariaMMS1984/data_scientist_yandex/music)
+## [1. Яндекс Музыка.](https://github.com/MariaMMS1984/data_scientist_yandex/blob/main/music/README.md)
 
 ### Задача:
 На данных Яндекс Музыки сравнить поведение пользователей двух столиц.
